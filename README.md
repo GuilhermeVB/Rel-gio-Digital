@@ -1,2 +1,3 @@
-# Rel-gio-Digital
-Relógio digital estilizado via web. Exibe as horas, minutos e segundos em tempo real utilizando a linguagem JavaScript
+# Relógio Digital
+
+Projeto desenvolvido com o canal "Larissa Kich" no intuito de praticar o uso do JavaScript em páginas web.
